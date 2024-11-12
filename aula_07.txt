@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Nov  7 22:03:36 2024
+
+@author: jvaob
+"""
+
+
+#  / Divisão, ** Potencia, // Divisão Inteira, % Resta da Divsão,== e igual
